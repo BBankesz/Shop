@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+body{
+    background-image: url("style/back.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#brandDecor{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+#ulPosition{
+    margin-left: auto;
+    text-indent: 15vh;
+}
+.nav-item{
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    text-decoration: underline white;
+}
+#liColor{
+    color: white;
+}
+#mainTextDecor{
+    font-size: 50px;
+    font-weight: bold;
+}
+table tr td{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+#picturePosition{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding-bottom: 40px; 
+}
+.modalDecor{
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.priceDecor{
+    color: white;
+    padding: 5px;
+    font-size: 22px;
+    width: 300px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+h2{
+    text-indent: 12%;
+    padding-top: 50px;
+    color: white;
+    text-decoration: underline;
+}
+.container{
+    color: white;
+    border-radius: 5px;
+    height: 200px;
+}
+#GyikDecor{
+    height: 600px;
+    width: 80%;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+#AdatvedelmiDecor{
+    height: 700px;
+    width: 80%;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+#AszfDecor{
+    height: 700px;
+    width: 80%;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+h3{
+    padding-top: 10px;
+    text-decoration: underline;
+}
